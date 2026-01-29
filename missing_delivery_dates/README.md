@@ -9,6 +9,7 @@ Before the change
 | Sanofi | 4859 |
 | Eurofins | 112 |
 
+After the change
 
 | cro_name | count |
 |---|---|
